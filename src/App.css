@@ -1,3 +1,8 @@
+html{
+  height: 100dvh;
+  width: 100dvw;
+  overflow: hidden;
+}
 .page-content-wrapper{
   background: rgb(36,32,32);
   background: linear-gradient(90deg, rgba(36,32,32,1) 0%, rgba(60,57,57,0.989233193277311) 22%, rgba(33,33,33,1) 63%, rgba(13,12,12,1) 87%, rgba(0,0,0,1) 100%);}
